@@ -94,7 +94,7 @@ This project is open for personal and educational use.
 
 ## Author
 
-[Gyan Chandra]
+[Dristi Singh]
 
 ---
 
